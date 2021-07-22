@@ -1,0 +1,43 @@
+@media (max-width:790px) {
+  #puzzle {
+    font-size: 3.5rem;
+  }
+
+}
+
+@media (max-width:690px) {
+  #puzzle {
+    font-size: 3rem;
+  }
+
+}
+
+@media (max-width:590px) {
+  #puzzle {
+    font-size: 2.5rem;
+  }
+
+}
+
+@media (max-width:515px) {
+  #puzzle {
+    font-size: 2rem;
+  }
+
+}
+
+@media (max-width:425px) {
+  #puzzle {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width:335px) {
+  #puzzle {
+    font-size: 1rem;
+  }
+
+  #guesses {
+    font-size: 0.75rem;
+  }
+}
