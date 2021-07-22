@@ -12,4 +12,5 @@ The page is made responsive using media queries.
 The API used to fetch the puzzles is [Puzzles](https://puzzle.mead.io/puzzle)
 
 The project is deployed in the below site
+
 [Let's Play the Hangman Game](https://gifted-mayer-85b88f.netlify.app/)
